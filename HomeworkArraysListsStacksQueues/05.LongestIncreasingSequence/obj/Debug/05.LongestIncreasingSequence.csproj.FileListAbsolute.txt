@@ -1,0 +1,5 @@
+D:\C# Homeworks\HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe.config
+D:\C# Homeworks\HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe
+D:\C# Homeworks\HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.pdb
+D:\C# Homeworks\HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.exe
+D:\C# Homeworks\HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.pdb

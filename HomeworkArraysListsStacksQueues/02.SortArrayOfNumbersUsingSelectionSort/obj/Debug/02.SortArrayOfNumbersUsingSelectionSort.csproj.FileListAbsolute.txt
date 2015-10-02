@@ -1,0 +1,6 @@
+D:\C# Homeworks\HomeworkArraysListsStacksQueues\02.SortArrayOfNumbersUsingSelectionSort\bin\Debug\02.SortArrayOfNumbersUsingSelectionSort.exe.config
+D:\C# Homeworks\HomeworkArraysListsStacksQueues\02.SortArrayOfNumbersUsingSelectionSort\bin\Debug\02.SortArrayOfNumbersUsingSelectionSort.exe
+D:\C# Homeworks\HomeworkArraysListsStacksQueues\02.SortArrayOfNumbersUsingSelectionSort\bin\Debug\02.SortArrayOfNumbersUsingSelectionSort.pdb
+D:\C# Homeworks\HomeworkArraysListsStacksQueues\02.SortArrayOfNumbersUsingSelectionSort\obj\Debug\02.SortArrayOfNumbersUsingSelectionSort.csprojResolveAssemblyReference.cache
+D:\C# Homeworks\HomeworkArraysListsStacksQueues\02.SortArrayOfNumbersUsingSelectionSort\obj\Debug\02.SortArrayOfNumbersUsingSelectionSort.exe
+D:\C# Homeworks\HomeworkArraysListsStacksQueues\02.SortArrayOfNumbersUsingSelectionSort\obj\Debug\02.SortArrayOfNumbersUsingSelectionSort.pdb
